@@ -1,5 +1,10 @@
 # typed-vuex-temp
 
+## これは何
+
+typed-vuexを個人的に勉強したときのサンドボックスです。
+/numberにアクセスすることでおよそどういうふうになっているのかわかると思います。
+
 ## Build Setup
 
 ```bash
